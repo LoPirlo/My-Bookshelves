@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>fffffffffffffffff</username>
+        <name>ffffffff</name>
+        <surname>fffffffffffffffffffff</surname>
+        <password>fffffffffffffffff</password>
+        <email>fff@fff.ff</email>
+        <type>User_Normal</type>
+        <bookshelves>
+            <bookshelf>
+                <title>Read</title>
+                <description>It contains books I've already read.</description>
+                <books/>
+            </bookshelf>
+            <bookshelf>
+                <title>To Read</title>
+                <description>It contains books I'm willing to read.</description>
+                <books/>
+            </bookshelf>
+            <bookshelf>
+                <title>Reading</title>
+                <description>It contains books I'm currently reading.</description>
+                <books/>
+            </bookshelf>
+        </bookshelves>
+    </user>
+    <user>
+        <username>gesu22</username>
+        <name>Gesu</name>
+        <surname>Cristo</surname>
+        <password>hell022</password>
+        <email>gesucristo@gmail.com</email>
+        <type>Moderator</type>
+        <bookshelves>
+            <bookshelf>
+                <title>Read</title>
+                <description>It contains books I've already read.</description>
+                <books>
+                    <isbn>343432423432</isbn>
+                    <isbn>031242194X</isbn>
+                </books>
+            </bookshelf>
+            <bookshelf>
+                <title>To Read</title>
+                <description>It contains books I'm willing to read.</description>
+                <books/>
+            </bookshelf>
+            <bookshelf>
+                <title>Reading</title>
+                <description>It contains books I'm currently reading.</description>
+                <books/>
+            </bookshelf>
+        </bookshelves>
+    </user>
+    <user>
+        <username>pirlott</username>
+        <name>Cristian</name>
+        <surname>Pirlog</surname>
+        <password>d3monoide</password>
+        <email>pirlogcristian93@gmail.com</email>
+        <type>Moderator</type>
+        <bookshelves>
+            <bookshelf>
+                <title>Read</title>
+                <description>It contains books I've already read in the past.</description>
+                <books>
+                    <isbn>031242194X</isbn>
+                    <isbn>343432423432</isbn>
+                    <isbn>0374528373</isbn>
+                    <isbn>031242194X</isbn>
+                    <isbn>031242194X</isbn>
+                    <isbn>432354435</isbn>
+                </books>
+            </bookshelf>
+            <bookshelf>
+                <title>To Read</title>
+                <description>It contains books I'm willing to read.</description>
+                <books>
+                    <isbn>0374528373</isbn>
+                </books>
+            </bookshelf>
+            <bookshelf>
+                <title>Audiobooks</title>
+                <description>Tatatatata</description>
+                <books/>
+            </bookshelf>
+            <bookshelf>
+                <title>Reading</title>
+                <description>Book I'm currently reading.</description>
+                <books>
+                    <isbn>0374528373</isbn>
+                </books>
+            </bookshelf>
+        </bookshelves>
+    </user>
+</users>
