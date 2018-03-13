@@ -1,9 +1,11 @@
 ## MyBookshelves
 
 
-**QT Version**: Qt Creator 4.3.1(Community) based on Qt 5.9.1 
-**Compiler**: MSVC 2015, 32 bit
-
+ **QT Version**: Qt Creator 4.3.1(Community) based on Qt 5.9.1
+ 
+ **Compiler**: MSVC 2015, 32 bit
+ 
+ **Database**: XML, thorough `QXmlStreamWriter` and `QXmlStreamReader`
 
 In order to compile and run the application follow these steps:    
  - `qmake MyBookshelves.pro`
@@ -20,3 +22,5 @@ The main functionality offered by _MyBookshelves_ is the possibility to search f
 
 _Moderators_ can insert new Books into the database and modify them.
 Same functionality is also offered to the Admin, who can also manipulate the most of the information of user's account, create new users or delete them.
+
+Other informations can be found inside the pdf document `Relazione.pdf`, which is solely in Italian.
